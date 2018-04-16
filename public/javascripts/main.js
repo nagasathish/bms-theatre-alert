@@ -123,7 +123,7 @@ function ajaxScrapCall() {
 
 setInterval(function () {
     ajaxScrapCall();
-}, 300000);
+}, 3000);
 
 
 function sendTheAJAX() {
